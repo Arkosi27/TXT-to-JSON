@@ -34,7 +34,6 @@ Requirements
 Python 3.x
 regex module (can be installed via pip)
 Contributing
-Bug reports and pull requests are welcome on GitHub at https://github.com/example/text-to-json-converter.
 
 License
 The script is available as open source under the terms of the MIT License.
