@@ -10,7 +10,7 @@ Download the convert_to_json.py file and save it to a local directory on your co
 
 Copy all the text files you want to convert to JSON to a directory on your local computer.
 
-Open a terminal or command prompt window and navigate to the directory where you saved the convert_to_json.py file and the directory with your text files.
+Open a terminal or command prompt window and navigate to the directory where you saved the bardscript.py file and the directory with your text files.
 
 Run the following command to install the required regex module:
 
